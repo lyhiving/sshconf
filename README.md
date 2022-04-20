@@ -4,7 +4,7 @@ Read more about SSH config files: https://linux.die.net/man/5/ssh_config
 
 ## Install
 
-使用 Composer
+Composer
 
 ```bash
 composer require lyhiving/sshconf
