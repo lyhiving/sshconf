@@ -1,8 +1,8 @@
 {
-  "name": "lyhiving/debug",
-  "description": "PHP debug",
-  "keywords": ["debug","Easy PHP Debug"],
-  "homepage": "https://github.com/lyhiving/debug",
+  "name": "lyhiving/sshconf",
+  "description": "PHP ssh config parser",
+  "keywords": ["ssh_config","PHP ssh config parser"],
+  "homepage": "https://github.com/lyhiving/sshconf",
   "license": "MIT",
   "authors": [
     {
@@ -12,11 +12,11 @@
     }
   ],
   "require": {
-    "php": ">=5.4",
+    "php": ">=7.1",
     "ext-gd": "*"
   },
   "autoload": {
-    "psr-4": { "lyhiving\\debug\\": "src/" }
+    "psr-4": { "lyhiving\\sshconf\\": "src/" }
   },
   "minimum-stability": "dev"
 }
